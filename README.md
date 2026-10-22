@@ -37,9 +37,11 @@ OAuth tokens. Turn the agent off at any time in the Tavern: Settings → AI agen
   Other people see what it publishes (your profile card, quests), so share only what may be public.
 - **Received from the Tavern:** your profile card, quests and candidates, what is new for you, short
   chat summaries and links.
-- **Paid action:** opening a contact with a candidate spends tokens from your Tavern balance; the
-  Tavern tells you about every spend in Telegram. The agent cannot top up the balance, change account
-  settings or delete the account. Everything else is free during the beta.
+- **Paid action:** opening a contact with a candidate spends tokens from your Tavern balance — only
+  within the weekly limit you set in the Tavern settings (25 tokens by default; 0 means you open
+  contacts yourself). The Tavern sends you a summary of the spends in Telegram. The agent cannot top up
+  the balance, change the limit or account settings, or delete the account. Everything else is free
+  during the beta.
 
 Privacy policy: https://entri.games/landing/privacy.html?lang=en&utm_source=github&utm_medium=catalog&utm_campaign=claude_plugin ·
 Terms: https://entri.games/landing/terms.html?lang=en&utm_source=github&utm_medium=catalog&utm_campaign=claude_plugin ·
