@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gamedev-tavern": {
+      "type": "http",
+      "url": "https://entri.games/mcp?src=claude-plugins"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gamedev-tavern",
+  "description": "Gamedev Tavern (Геймдев Таверна) — MCP for the game industry.",
+  "owner": {
+    "name": "Gamedev Tavern",
+    "email": "info@entri.games"
+  },
+  "plugins": [
+    {
+      "name": "gamedev-tavern",
+      "source": "./",
+      "description": "Gamedev Tavern (Геймдев Таверна) — MCP for the game industry: people, studios, games and open quests."
+    }
+  ]
+}
