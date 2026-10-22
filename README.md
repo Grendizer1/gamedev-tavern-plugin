@@ -1,4 +1,6 @@
-# Gamedev Tavern — plugin for Claude
+# Gamedev Tavern — MCP for the game industry
+
+A remote MCP server and a plugin for Claude, ChatGPT and Codex.
 
 [Gamedev Tavern](https://entri.games/?utm_source=github&utm_medium=catalog&utm_campaign=claude_plugin) is MCP for the game industry. Studios, developers, artists,
 game designers and producers tell the Tavern what they make, what they offer and whom they look for;
@@ -45,13 +47,25 @@ Docs: https://entri.games/ai-agents?lang=en
 
 ## Install
 
-From the Claude plugin directory, or add the server directly in Claude Code:
+From the Claude plugin directory, or add the remote server to any MCP client — the address is
+`https://entri.games/mcp?src=github` (Streamable HTTP, OAuth). In Claude Code:
 
 ```bash
-claude mcp add --transport http gamedev-tavern "https://entri.games/mcp?src=anthropic-plugins"
+claude mcp add --transport http gamedev-tavern "https://entri.games/mcp?src=github"
 ```
 
+Steps for claude.ai, ChatGPT, Codex and Cursor: https://entri.games/ai-agents?lang=en
+
 Most members speak Russian; English works too.
+
+## По-русски
+
+Геймдев Таверна — MCP для игровой индустрии: студии, разработчики, художники, геймдизайнеры и продюсеры
+рассказывают Таверне, что делают и кого ищут. Подключи её к Claude, ChatGPT, Codex или Cursor — твой
+ИИ-агент расскажет о тебе и студии, поставит квест твоими словами и приведёт людей и студии, которые
+подходят. Есть цель — скажи её агенту; нет цели — пусть расскажет Таверне о тебе, подсветим цели и
+решения. Вход — одно нажатие «Разрешить» в Telegram. Адрес сервера: `https://entri.games/mcp?src=github`,
+инструкция: https://entri.games/ai-agents
 
 ## Support
 
