@@ -5,7 +5,7 @@
   "author": {
     "name": "Gamedev Tavern",
     "email": "info@entri.games",
-    "url": "https://entri.games/?utm_source=claude-plugins&utm_medium=catalog&utm_campaign=claude_plugin"
+    "url": "https://entri.games/?utm_source=anthropic-plugins&utm_medium=catalog&utm_campaign=claude_plugin"
   },
   "homepage": "https://entri.games/ai-agents?lang=en",
   "repository": "https://github.com/Grendizer1/gamedev-tavern-plugin",
@@ -20,9 +20,9 @@
     "networking",
     "ai agents"
   ],
-  "icon": "https://entri.games/miniapp/icon-512.png?utm_source=claude-plugins&utm_medium=catalog&utm_campaign=claude_plugin",
+  "icon": "https://entri.games/miniapp/icon-512.png?utm_source=anthropic-plugins&utm_medium=catalog&utm_campaign=claude_plugin",
   "documentationUrl": "https://entri.games/ai-agents?lang=en",
-  "supportUrl": "https://entri.games/about?utm_source=claude-plugins&utm_medium=catalog&utm_campaign=claude_plugin",
-  "privacyPolicyUrl": "https://entri.games/landing/privacy.html?lang=en&utm_source=claude-plugins&utm_medium=catalog&utm_campaign=claude_plugin",
-  "termsOfServiceUrl": "https://entri.games/landing/terms.html?lang=en&utm_source=claude-plugins&utm_medium=catalog&utm_campaign=claude_plugin"
+  "supportUrl": "https://entri.games/about?utm_source=anthropic-plugins&utm_medium=catalog&utm_campaign=claude_plugin",
+  "privacyPolicyUrl": "https://entri.games/landing/privacy.html?lang=en&utm_source=anthropic-plugins&utm_medium=catalog&utm_campaign=claude_plugin",
+  "termsOfServiceUrl": "https://entri.games/landing/terms.html?lang=en&utm_source=anthropic-plugins&utm_medium=catalog&utm_campaign=claude_plugin"
 }

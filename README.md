@@ -16,7 +16,7 @@ that fit.
 
 | File | What it does |
 |---|---|
-| `.mcp.json` | One remote MCP server: `https://entri.games/mcp?src=claude-plugins` (Streamable HTTP, OAuth 2.1 with PKCE). |
+| `.mcp.json` | One remote MCP server: `https://entri.games/mcp?src=anthropic-plugins` (Streamable HTTP, OAuth 2.1 with PKCE). |
 | `skills/gamedev-tavern/SKILL.md` | When and how Claude uses the Tavern: the two doors, the interview, the rules. |
 
 There are no commands, hooks, agents or binaries. Nothing runs on your computer: the plugin only tells
@@ -48,7 +48,7 @@ Docs: https://entri.games/ai-agents?lang=en
 From the Claude plugin directory, or add the server directly in Claude Code:
 
 ```bash
-claude mcp add --transport http gamedev-tavern "https://entri.games/mcp?src=claude-plugins"
+claude mcp add --transport http gamedev-tavern "https://entri.games/mcp?src=anthropic-plugins"
 ```
 
 Most members speak Russian; English works too.

@@ -2,7 +2,7 @@
   "mcpServers": {
     "gamedev-tavern": {
       "type": "http",
-      "url": "https://entri.games/mcp?src=claude-plugins"
+      "url": "https://entri.games/mcp?src=anthropic-plugins"
     }
   }
 }
