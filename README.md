@@ -39,7 +39,8 @@ OAuth tokens. Turn the agent off at any time in the Tavern: Settings → AI agen
   chat summaries and links.
 - **Paid action:** opening a contact with a candidate spends tokens from your Tavern balance — only
   within the weekly limit you set in the Tavern settings (25 tokens by default; 0 means you open
-  contacts yourself). The Tavern sends you a summary of the spends in Telegram. The agent cannot top up
+  contacts yourself). The Tavern sends you a summary of the spends in Telegram. In ChatGPT the agent
+  spends nothing — you open contacts yourself on the Tavern site (OpenAI rules). The agent cannot top up
   the balance, change the limit or account settings, or delete the account. Everything else is free
   during the beta.
 
