@@ -1,5 +1,7 @@
 # Gamedev Tavern — MCP for the game industry
 
+<img src="assets/icon-512.png" alt="Gamedev Tavern" width="96" align="right">
+
 A remote MCP server and a plugin for Claude, ChatGPT and Codex.
 
 [Gamedev Tavern](https://entri.games/?utm_source=github&utm_medium=catalog&utm_campaign=claude_plugin) is MCP for the game industry. Studios, developers, artists,
