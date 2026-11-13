@@ -1,5 +1,7 @@
 # Gamedev Tavern — MCP for the game industry
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/grendizer1-gamedev-tavern-plugin-13qdh1?v=5870be9f8130cc4ab32cb67708199377&variant=verified)](https://m8ven.ai/mcp/grendizer1-gamedev-tavern-plugin-13qdh1?s=readme)
+
 <img src="assets/icon-512.png" alt="Gamedev Tavern" width="96" align="right">
 
 A remote MCP server and a plugin for Claude, ChatGPT and Codex.
@@ -36,7 +38,8 @@ OAuth tokens. Turn the agent off at any time in the Tavern: Settings → AI agen
 
 - **Sent to the Tavern:** only what your agent passes to the tools — facts about you, your studio and
   your projects, quest texts, your answers to the interview and chat messages you ask it to send.
-  Other people see what it publishes (your profile card, quests), so share only what may be public.
+  Chat messages and event applications go out only after you approve them: Claude shows you the exact
+  text or card and sends it after your yes. Other people see what it publishes (your profile card, quests), so share only what may be public.
 - **Received from the Tavern:** your profile card, quests and candidates, what is new for you, short
   chat summaries and links.
 - **Paid action:** opening a contact with a candidate spends tokens from your Tavern balance — only
